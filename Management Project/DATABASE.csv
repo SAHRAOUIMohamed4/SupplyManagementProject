@@ -1,0 +1,28 @@
+IdProduit;NomeProduit;demande_annuelle;prix_unitair;stock_valeur;Class_type
+P1;La réglette lumineuse 2x40;1500;1200;125;.
+P2;La réglette 1x20;1210;1250;100;.
+P3;Les coffrets électriques standards;430;14000;35;.
+P4;Réflecteur industriel  Grillagé sans tube;1780;700;148;.
+P5;Réflecteur tableau complet sans tube;1800;750;150;.
+P6;Réflecteur Duo  PM complet sans tube;1660;800;138;.
+P7;Réflecteur industriel  complet sans tube;1870;850;152;.
+P8;Réflecteur Duo GM complet sans tube;1430;900;122;.
+P9;Luminaire étanche Mono/Duo;1210;1000;100;.
+P10;Luminaire en acrylique GDR;1140;1100;97;.
+P11;Luminaire en acrylique Frosted;1090;1200;91;.
+P12;Luminaire en acrylique Opal;980;1300;87;.
+P13;Luminaire en acrylique transparent;710;1400;70;.
+P14;Luminaire prismatique en polystyrène;880;1500;79;.
+P15;Luminaires encastrés;1010;1600;90;.
+P16;câbles à bord droit;6700;250;558;.
+P17;câbles à bord rond;5900;350;540;.
+P18;câbles avec couvercle à clipser;5903;450;541;.
+P19;Echelle à câbles;2765;500;241;.
+P20;Armoires une porte standards;8276;6500;612;.
+P21;Armoires deux portes standards;2897;8000;245;.
+P22;LAMPE LED BOWLING;6876;180;576;.
+P23;LAMPE LED LUSTRE;7002;130;602;.
+P24;LAMPE LED SPHERIQUE;6567;270;549;.
+P25;LAMPE LED CLASSIC;7566;180;580;.
+P26;LAMPE LED TOP HANDSOME 13W;4234;400;352;.
+P27;LAMPE LED FILM GOLD C35 4W;2344;350;195;.
